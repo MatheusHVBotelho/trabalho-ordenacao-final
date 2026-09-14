@@ -14,8 +14,8 @@ trabalho-ordenacao/
 │   └── exercicios.md          # Questões teóricas resolvidas (1 a 4)
 ├── algoritmos/
 │   ├── quicksort.py            # Algoritmo Quicksort
-│   ├── mergesort.py          # Selection Sort
-│   └── quicksort.py          # Merge Sort
+│   ├── selectionsort.py          # Selection Sort
+│   └── mergesort.py          # Merge Sort
 ├── experimentos/
 │   ├── experimento.py          # Script que roda os testes de tempo
 │   └── resultados.csv          # Resultados medidos (tempo em segundos)
