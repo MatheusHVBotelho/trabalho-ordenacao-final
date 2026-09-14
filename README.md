@@ -11,7 +11,7 @@ Alunos: Bárbara Marjorye, Giselane Maria, Matheus Henrique, Diego Assis
 trabalho-ordenacao/
 ├── README.md
 ├── exercicios/
-│   └── exercicios.md          # Questões teóricas resolvidas (1 a 4)
+│   └── exercicios.md          # Questões teóricas resolvidas (6)
 ├── algoritmos/
 │   ├── quicksort.py            # Algoritmo Quicksort
 │   ├── selectionsort.py          # Selection Sort
