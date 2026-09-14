@@ -1,0 +1,7 @@
+tamanho_chave,quicksort_segundos,radixsort_segundos
+1,1.41,0.44
+2,2.10,0.66
+4,2.91,1.00
+8,3.49,1.95
+16,3.58,5.05
+32,4.46,13.96
